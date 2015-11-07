@@ -1,0 +1,13 @@
+{
+	"name" : "chat_application",
+	"version" : "0.0.1",
+	"description" : "multiroom chat server",
+	"dependencies" : {
+		"socket.io" : "~0.9.6",
+		"mime"	: "~1.2.7"	
+	},
+	"maintainers" : [{
+		"name" : "pankaj kumar",
+		"email" : "pancsenitt@gmail.com"
+	}]
+}
